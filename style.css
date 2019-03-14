@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+.div-button {
+    margin-left: 32%;
+    margin-top: 15%;
+}
+
+.btn-piano {
+    width: 50px;
+    height: 200px;
+    border-color: gray;
+    margin-left: 4px;
+    text-transform: uppercase;
+    color: black;
+    font-size: large;
+    font-family: 'Russo One', sans-serif;
+    font-weight: bold;
+    background-color: white;
+}
+
+
